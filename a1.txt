@@ -1,2 +1,9 @@
 smwjd
 snkje
+dmj
+<<<<<<< HEAD
+dmwkje
+=======
+smwj
+>>>>>>> 12b243d (commit message)
+sbsyw
