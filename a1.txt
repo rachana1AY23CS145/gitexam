@@ -8,3 +8,4 @@ smwj
 >>>>>>> 12b243d (commit message)
 sbsyw
 first commit
+second commit
